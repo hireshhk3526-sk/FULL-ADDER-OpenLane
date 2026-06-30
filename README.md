@@ -16,7 +16,7 @@ Tools Used
 Project Files
 
 - "src/" – Verilog source files
-- "configuration" – OpenLane configuration
+- "configuration files" – OpenLane configuration
 - "gds/" – Final GDSII layout
 - "screenshots/" – Floorplan, Placement, CTS, Routing and Final GDS screenshots
 
