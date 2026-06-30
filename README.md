@@ -2,7 +2,7 @@ Full Adder RTL to GDSII using OpenLane
 
 Project Overview
 
-This project demonstrates the complete RTL-to-GDSII ASIC design flow for a 1-bit Full Adder using OpenLane.
+This project demonstrates the complete RTL-to-GDSII ASIC design flow for Full Adder using OpenLane.
 
 Tools Used
 
